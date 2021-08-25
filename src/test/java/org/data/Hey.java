@@ -10,5 +10,6 @@ public class Hey {
 	@Test
 public void get() {
 	System.out.println("hey");
+	System.out.println("Checking");
 }
 }
